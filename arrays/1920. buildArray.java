@@ -1,3 +1,4 @@
+// Date: 11/10/25
 // Problem: https://leetcode.com/problems/build-array-from-permutation
 // Approach: Use bruteforce iterating each and every element in array
 // Time: O(n)

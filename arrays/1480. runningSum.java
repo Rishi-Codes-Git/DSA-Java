@@ -1,3 +1,4 @@
+// Date: 12/10/25
 // Problem: https://leetcode.com/problems/running-sum-of-1d-array
 // Approach: increment a sum and add to array indexes.
 // Time: O(n)

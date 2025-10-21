@@ -1,3 +1,4 @@
+// Date: 12/10/25
 // Problem: https://leetcode.com/problems/richest-customer-wealth
 // Approach: add wealth of each customer into 1d array and find maximum of it.
 // Time: O(m x n)
