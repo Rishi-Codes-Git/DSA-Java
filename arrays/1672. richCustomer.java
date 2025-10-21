@@ -5,8 +5,7 @@
 
 package arrays;
 
-public class 1672. richCustomer {
-    class Solution {
+class Solution {
     public int maximumWealth(int[][] accounts) {
         int[] wealth = new int[accounts.length];
         for(int i=0;i<accounts.length;i++){
@@ -25,4 +24,4 @@ public class 1672. richCustomer {
         return max;
     }
 }
-}
+
