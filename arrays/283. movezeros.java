@@ -1,7 +1,7 @@
-// 🔗 Problem: https://leetcode.com/problems/move-zeroes
-// 💡 Approach: use single pointer 
-// ⏱️ Time: O(n)
-// 💾 Space: O(1)
+// Problem: https://leetcode.com/problems/move-zeroes
+// Approach: use single pointer 
+// Time: O(n)
+// Space: O(1)
 
 package arrays;
 

@@ -1,7 +1,7 @@
-// 🔗 Problem: https://leetcode.com/problems/concatenation-of-array
-// 💡 Approach: Create new array of 2n and add each element using two pointer.
-// ⏱️ Time: O(n)
-// 💾 Space: O(1)
+// Problem: https://leetcode.com/problems/concatenation-of-array
+// Approach: Create new array of 2n and add each element using two pointer.
+// Time: O(n)
+// Space: O(1)
 
 package arrays;
 
